@@ -1,7 +1,9 @@
 <p align="center">
-  <img src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png" alt="Oh My Zsh">
+  <img src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png" alt="CrusaderW's Oh My Zsh">
 </p>
 
+Please note, that this is my personally modified version of Oh My Zsh.
+If you wish the original version go to robbyrussel's Repository.
 Oh My Zsh is an open source, community-driven framework for managing your [zsh](http://www.zsh.org/) configuration.
 
 Sounds boring. Let's try again.
@@ -32,13 +34,13 @@ Oh My Zsh is installed by running one of the following commands in your terminal
 #### via curl
 
 ```shell
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/CrusaderW/oh-my-zsh/master/tools/install.sh)"
 ```
 
 #### via wget
 
 ```shell
-sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
+sh -c "$(wget https://raw.githubusercontent.com/CrusaderW/oh-my-zsh/master/tools/install.sh -O -)"
 ```
 
 ## Using Oh My Zsh
